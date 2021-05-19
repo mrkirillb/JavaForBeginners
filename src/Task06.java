@@ -6,7 +6,7 @@ public class Task06 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Варианты конвертации: 1 - Расстояние, 2 - Масса");
         int x = scanner.nextInt();
-        //кол-во конвертируемых единиц
+        //Количество единиц конвертации
         double z;
         switch (x){
             case 1:
